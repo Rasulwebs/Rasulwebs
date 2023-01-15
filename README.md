@@ -1,5 +1,5 @@
 ##  Rasul Boboqulov 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer;I'm+a+NextJS+Developer;)
 
 <h1 align="center">Hi 👋, I'm Rasulwebs</h1>
 <h3 align="center">Frontend developer</h3>
