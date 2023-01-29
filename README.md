@@ -10,7 +10,7 @@
 
 ##Connect with me:
 
-<a href="https://linkedin.com/in/rasul-boboqulov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasul-boboqulov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rasul-boboqulov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasul-boboqulov" height="30" width="40" /></a>
 ![emailto:boboqulovrasul80@gmail.com](https://img.shields.io/badge/-boboqulovrasul80@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 
 
