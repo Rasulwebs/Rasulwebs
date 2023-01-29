@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **JavaScript, ReactJS, NextJS**
 
-- 📫 How to reach me **boboqulovrasul80@gmail.com**
-
 ##Connect with me:
 
 <a href="https://linkedin.com/in/rasul-boboqulov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasul-boboqulov" height="30" width="40" /></a>
