@@ -10,6 +10,7 @@
 
 <a href="https://linkedin.com/in/rasul-boboqulov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasul-boboqulov" height="30" width="40" /></a>
 ![emailto:boboqulovrasul80@gmail.com](https://img.shields.io/badge/-boboqulovrasul80@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/boboqulovrasul)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,8 +19,6 @@
 
 
 ### Follow Me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/boboqulovrasul)
 
 [![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/rasul.boboqulov)
 
