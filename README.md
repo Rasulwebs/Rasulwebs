@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Rasulwebs</h1>
 <h3 align="center">Frontend developer</h3>
 
-🌱 I’m currently learning NodeJS and Database
+- 🌱 I’m currently learning NodeJS and Database
 - 💬 Ask me about  **JavaScript, ReactJS, NextJS**
 
 ##Connect with me:
