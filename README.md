@@ -2,7 +2,7 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer;I'm+a+NextJS+Developer;)
 
 <h1 align="center">Hi 👋, I'm Rasulwebs</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Web developer</h3>
 
 - 🌱 I’m currently learning **NodeJS** and **Database**
 - 💬 Ask me about  **JavaScript, React, NextJS**
