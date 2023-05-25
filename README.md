@@ -23,9 +23,9 @@
 
 ### Follow Me
 
-[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/rasul.boboqulov)
+[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/rasul.boboqulov) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/rasul-boboqulov/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/rasul-boboqulov/)
+
 
 <!--   GitHub stats graph -->
 
