@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning NestJS and AWS<br>💬 Ask me about JavaScript, React, NextJS, TypeScript, Node.js, PostgreSQL and MongoDB
+🌱 I’m currently learning NestJS, GoogleCloud and AWS<br>💬 Ask me about JavaScript, React, NextJS, TypeScript, Node.js, PostgreSQL and MongoDB
 
 ## 🌐 Socials:
 
