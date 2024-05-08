@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Node.js, Prisma and SQL <br>💬 Ask me about JavaScript, React, NextJS, TypeScript and MongoDB
+🌱 I’m currently learning Prisma and SQL <br>💬 Ask me about JavaScript, React, NextJS, TypeScript and MongoDB
 
 ## 🌐 Socials:
 
