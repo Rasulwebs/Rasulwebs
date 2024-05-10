@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Prisma and SQL <br>💬 Ask me about JavaScript, React, NextJS, TypeScript and MongoDB
+🌱 I’m currently learning Prisma and SQL <br>💬 Ask me about JavaScript, React, Next.js, TypeScript and MongoDB
 
 ## 🌐 Socials:
 
@@ -25,6 +25,7 @@
 
 ## 💰 You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/rasulwebs) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/rasulweb)
+### [Tirikchilik](https://tirikchilik.uz/rasulwebs) 
+<!-- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/rasulweb) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
