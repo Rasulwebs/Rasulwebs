@@ -16,7 +16,6 @@ I'm developer based in Uzbekistan, and I'm passionate about crafting digital exp
 #### Backend Development:
 ![Node.js](https://img.shields.io/badge/Node.js-3ECF8E?logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) 
 
-
 #### Version Control:
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/Gitlab-%23181717.svg?logo=gitlab&logoColor=white)
 
