@@ -1,6 +1,6 @@
 <!-- ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines/=I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer;I'm+a+NextJS+Developer;) -->
 
-### Hey 👋, I'm Rasul
+### Hey 👋🏻, I'm Rasul
 I'm developer based in Uzbekistan, and I'm passionate about crafting digital experiences.
 
 ### 💫 About Me:
@@ -25,7 +25,7 @@ I'm developer based in Uzbekistan, and I'm passionate about crafting digital exp
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rasul.boboqulov) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rasul-boboqulov/) ![emailto:boboqulovrasul80@gmail.com](https://img.shields.io/badge/Gmail-082032?logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?logo=Telegram&logoColor=#26A5E4)](https://t.me/boboqulovrasul)
 
-### 💰 You can help me by Donating
+### 🫱🏻‍🫲🏻 You can help me by Donating
 
  [![Tirikchilik](https://img.shields.io/badge/Tirikchilik-ffdd00?style=for-the-badge)](https://tirikchilik.uz/rasulwebs)
 <!-- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/rasulweb) -->
